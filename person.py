@@ -1,3 +1,4 @@
+#Класс для людей
 class Person():
     def __init__(self):
         self.name = str(input('Введите Имя: '))
